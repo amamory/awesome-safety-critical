@@ -174,6 +174,12 @@ format:
 
 ## Topics
 
+### Requirements management tools 
+
+-[Doorstop](https://pypi.org/project/doorstop/)
+-[Doorframe](https://doorframe.io/)
+-[PlantUML](https://plantuml.com/) for text based charts
+
 ### Certification
 
 - [Introduction to Certification by Quentin Ochem, AdaCore](http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx)
