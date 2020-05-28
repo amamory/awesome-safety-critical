@@ -269,6 +269,22 @@ make one approach more appropriate than another.
 
 - [A Case Study of Toyota Unintended Acceleration and Software Safety](https://betterembsw.blogspot.de/2014/09/a-case-study-of-toyota-unintended.html) and [NASA report on the Toyota Unintended Acceleration Issue](https://www.nhtsa.gov/staticfiles/nvs/pdf/NASA-UA_report.pdf)
 
+## Safety for Hardware design
+
+resources related to the design of safety critical hw.
+
+[VHDL Design methology adopted by ESA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/VHDL)
+
+[A structured VHDL design method](https://www.gaisler.com/doc/vhdl2proc.pdf)
+
+
+[ESA Microelectronics Development Methodology](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/Microelectronics_Development_Methodology)
+
+[FPGA Design Flow for Space Applications (video)](https://youtu.be/NRp9Ry1f9Kk?t=2823)
+
+[Open Source VHDL Verification Methodology (OSVVM) Repository](https://github.com/OSVVM/OSVVM)
+
+
 ## Questions and Answers
 
 #### - Which languages are used for safety-critical software?
