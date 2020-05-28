@@ -271,18 +271,17 @@ make one approach more appropriate than another.
 
 ## Safety for Hardware design
 
-resources related to the design of safety critical hw.
+Resources related to the design of safety critical hw.
 
-[VHDL Design methology adopted by ESA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/VHDL)
+ - [VHDL Design methology adopted by ESA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/VHDL)
 
-[A structured VHDL design method](https://www.gaisler.com/doc/vhdl2proc.pdf)
+- [A structured VHDL design method](https://www.gaisler.com/doc/vhdl2proc.pdf)
 
+- [ESA Microelectronics Development Methodology](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/Microelectronics_Development_Methodology)
 
-[ESA Microelectronics Development Methodology](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/Microelectronics_Development_Methodology)
+- [FPGA Design Flow for Space Applications (video)](https://youtu.be/NRp9Ry1f9Kk?t=2823)
 
-[FPGA Design Flow for Space Applications (video)](https://youtu.be/NRp9Ry1f9Kk?t=2823)
-
-[Open Source VHDL Verification Methodology (OSVVM) Repository](https://github.com/OSVVM/OSVVM)
+- [Open Source VHDL Verification Methodology (OSVVM) Repository](https://github.com/OSVVM/OSVVM)
 
 
 ## Questions and Answers
